@@ -1,5 +1,4 @@
 library;
-
 class TagModel {
   String heading;
   int color;
